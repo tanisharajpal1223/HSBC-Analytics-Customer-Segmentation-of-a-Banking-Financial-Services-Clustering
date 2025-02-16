@@ -85,5 +85,5 @@ Based on the cluster analysis, the following recommendations are made:
 ## Conclusion
 This project successfully segmented customers into distinct clusters, providing valuable insights into customer behaviors and enabling more effective marketing, product development, and customer retention strategies. The approach demonstrates the power of K-Means Clustering in revealing underlying patterns within customer data in the banking and financial services industry.
 
-[Processed Dataset Link - Output](https://github.com/ShouvikSaha504/Customer-Segmentation-of-a-Banking-Financial-Services-/blob/9e7a0c10f0a974d2f798f5f3d3653a50e901ecf6/Clustered_Customer_Data.csv)
+
 
