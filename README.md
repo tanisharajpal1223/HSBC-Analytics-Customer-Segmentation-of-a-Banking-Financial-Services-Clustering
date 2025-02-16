@@ -10,7 +10,6 @@ The objective of this project is to segment customers in the banking and financi
 
 ## Dataset Description
 
-[Dataset Link](https://github.com/ShouvikSaha504/Customer-Segmentation-of-a-Banking-Financial-Services-/blob/f861cc0a5cb25d993a0cb23f4a2346984684fc4c/Customer%20Data.csv)
 
 The dataset used in this project is focused on customer credit card usage data within the banking and financial services industry. Below is a detailed description of each attribute in the dataset:
 
@@ -62,20 +61,6 @@ K-Means Clustering was employed to group customers into clusters based on their 
   - **Moderate Balance and Usage:** These customers exhibit stable financial behavior, making them ideal candidates for consistent savings and investment products.
 
   - **Moderate Usage:** Their balanced approach to credit card use suggests they are likely to be receptive to medium-sized loans and retirement plans that support their long-term financial stability.
-
-  
-### Clusters: 
-[**Image Link**](https://github.com/ShouvikSaha504/Customer-Segmentation-of-a-Banking-Financial-Services-/blob/a389ed7a970d0a8e28bfbdc26e66c10dcbbe4d19/clusters.png)
-
-
-![clusters](https://github.com/user-attachments/assets/fc096f94-f0a7-4dc0-abdd-839538712d4f)
-
-### Elbow method:
-
-[**Image Link**](https://github.com/ShouvikSaha504/Customer-Segmentation-of-a-Banking-Financial-Services-/blob/78b5b3ce959aa1ca877b4fc0a413c79105c73fe4/Values%20of%20K.png)
-
-![Values of K](https://github.com/user-attachments/assets/af539b1f-1c5d-4a79-85c7-0eaa8c26a97e)
-
 
 ## Insights 
 - **Customer Diversity**: The analysis revealed significant diversity in customer behaviors and needs, emphasizing the importance of targeted strategies.
